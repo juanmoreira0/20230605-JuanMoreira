@@ -1,0 +1,32 @@
+   65  cd desktop
+   66  mkdir Intro2023
+   67  cd Intro2023
+   68  mkdir terminal comandos
+   69  cd terminal
+   70  touch prueba1.txt
+   71  mv prueba1.txt ../comandos
+   72  ls
+   73  cd ..
+   74  cd comandos
+   75  ls
+   76  nano
+   77  git status
+   78  clear
+   79  cd ../../
+   80  clear
+   81  git switch feature01
+   82  git push origin feature01
+   83  git add .
+   84  git commit -m "commit 02 de JuanMoreira"
+   85  git push -u origin feature01
+   86  git branch feature02
+   87  git switch feature02
+   88  git merge feature01
+   89  git add .
+   90  git commit -m "commit 03 de JuanMoreira"
+   91  git push -u origin feature02
+   92  git switch main
+   93  git mv comandos.txt comandosUtilizados.txt
+   94  history 50 > archivo.txt
+   95  history 29 > archivo.txt
+   96  history 32 > archivo.txt
