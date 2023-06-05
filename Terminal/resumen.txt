@@ -1,0 +1,5 @@
+git init - te comando se utiliza para inicializar un nuevo repositorio Git en un directorio.
+git clone - Con este comando puedes clonar un repositorio Git existente desde un servidor remoto a tu máquina local.
+git add - Utiliza este comando para agregar cambios al área de preparación (staging area) antes de realizar un commit.
+git commit - Este comando se utiliza para guardar los cambios confirmados en el repositorio
+git push - Utiliza este comando para enviar tus cambios confirmados al repositorio remoto

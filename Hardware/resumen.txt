@@ -1,0 +1,3 @@
+Placa madre (Motherboard): Es la pieza central que conecta y comunica todos los componentes de hardware de una computadora.
+Procesador (CPU): Es el cerebro de la computadora. El procesador ejecuta instrucciones y realiza cálculos para llevar a cabo las tareas solicitadas por el usuario.
+Memoria RAM (Random Access Memory): Es donde se almacenan temporalmente los datos y programas en ejecución. 
